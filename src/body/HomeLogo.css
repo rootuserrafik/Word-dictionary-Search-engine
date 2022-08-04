@@ -1,0 +1,7 @@
+.SubHeader .HomeLogo {
+	flex: .3;
+}
+.SubHeader img.logocss {
+	width: 100%;
+	margin-left: 20px;
+}

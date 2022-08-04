@@ -1,0 +1,15 @@
+.App__HeaderRight {
+	flex: .1;
+}
+.App__HeaderRight ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    padding-left: 10px;
+}
+ul.MainMenu {
+    display: flex;
+}
+ul.MainMenu li {
+    padding: 0 10px;
+}

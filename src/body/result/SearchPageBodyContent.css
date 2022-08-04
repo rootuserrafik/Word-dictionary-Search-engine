@@ -1,0 +1,8 @@
+.SearchPageBodyContent{
+    background-color: rebeccapurple;
+    width: 100%;
+    height: 100vh;
+}
+.SearchPageBodyContent{
+    flex: 0.7;
+}

@@ -1,0 +1,43 @@
+input:active,
+input:focus{
+    outline: none;
+}
+.App__SearchBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+
+img.logocss {
+    width: 60%;
+}
+.searchArea {
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 50px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #dfdfdf;
+}
+
+input.searchBox {
+    width: 90%;
+    padding: 10px;
+    background-color: #fff;
+    font-size: 16px;
+    border: none;
+}
+.app__SearchIcon{
+    color: #ff8a00;
+    border-left: 1px solid #dfdfdf;
+    padding: 0px 0 0px 10px;
+}
+.App__SPN .searchArea{
+    width: 90%;
+    margin-top: 10px;
+}
